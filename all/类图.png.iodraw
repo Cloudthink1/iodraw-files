@@ -48,6 +48,9 @@
         <mxCell id="saWa5A635zBH3H_Si0Gx-0" value="&lt;span id=&quot;boardmix-data-meta&quot;&gt;&lt;/span&gt;&lt;span id=&quot;boardmix-data-buffer&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="480" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="saWa5A635zBH3H_Si0Gx-2" value="打开登录页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
