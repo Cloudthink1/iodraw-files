@@ -48,6 +48,9 @@
         <mxCell id="KUoX2OAG4VQdFdRVjJP--56" value="系统监测课表冲突" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="260" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KUoX2OAG4VQdFdRVjJP--58" value="有冲突" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.459;entryY=0.09;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KUoX2OAG4VQdFdRVjJP--56" target="KUoX2OAG4VQdFdRVjJP--33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
