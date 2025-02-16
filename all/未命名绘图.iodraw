@@ -247,8 +247,8 @@
             <mxPoint x="430" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XITVQfNtlrDm07SDY_9d-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="550" width="80" height="80" as="geometry" />
+        <mxCell id="XITVQfNtlrDm07SDY_9d-24" value="输入查询条件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
