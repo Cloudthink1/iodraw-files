@@ -250,7 +250,7 @@
         <mxCell id="XITVQfNtlrDm07SDY_9d-24" value="输入查询条件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="520" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XITVQfNtlrDm07SDY_9d-25" value="查询资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="XITVQfNtlrDm07SDY_9d-25" value="提示“没有相关资源，请重新输入”" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="535" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XITVQfNtlrDm07SDY_9d-26" value="查询资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
