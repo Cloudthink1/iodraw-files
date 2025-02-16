@@ -71,7 +71,7 @@
         <mxCell id="ekSZkkQF2Beou5W1Ht5j-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ekSZkkQF2Beou5W1Ht5j-2" target="ekSZkkQF2Beou5W1Ht5j-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekSZkkQF2Beou5W1Ht5j-2" value="录入课程任务和资源信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="ekSZkkQF2Beou5W1Ht5j-2" value="打开登录页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekSZkkQF2Beou5W1Ht5j-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ekSZkkQF2Beou5W1Ht5j-4" target="ekSZkkQF2Beou5W1Ht5j-2">
