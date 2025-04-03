@@ -521,7 +521,7 @@
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="B6209zG0zNm9xYJiIQR3-1" value="CourseTask        " style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="60" y="136" width="160" height="234" as="geometry">
+          <mxGeometry x="60" y="136" width="160" height="214" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -534,7 +534,7 @@
         <mxCell id="B6209zG0zNm9xYJiIQR3-4" value="- teacherID" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" vertex="1" parent="B6209zG0zNm9xYJiIQR3-1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="B6209zG0zNm9xYJiIQR3-5" value="- timePreference" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" vertex="1" parent="B6209zG0zNm9xYJiIQR3-1">
+        <mxCell id="B6209zG0zNm9xYJiIQR3-5" value="- timeID" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" vertex="1" parent="B6209zG0zNm9xYJiIQR3-1">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="B6209zG0zNm9xYJiIQR3-7" value=" + fetchTasks() " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" vertex="1" parent="B6209zG0zNm9xYJiIQR3-1">
