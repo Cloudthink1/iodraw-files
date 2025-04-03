@@ -474,7 +474,7 @@
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vzf-MGobFuJKPZBdEg17-12" value=" + inputDemand()  " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Vzf-MGobFuJKPZBdEg17-11" vertex="1">
+        <mxCell id="Vzf-MGobFuJKPZBdEg17-12" value=" + inputRequest()  " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Vzf-MGobFuJKPZBdEg17-11" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Vzf-MGobFuJKPZBdEg17-13" value=" + displayResult()  " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="Vzf-MGobFuJKPZBdEg17-11" vertex="1">
