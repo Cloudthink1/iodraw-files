@@ -493,7 +493,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wzBzn5pES3m4FqYsGlj3-1" value="Timeslot" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="110" y="43" width="160" height="87" as="geometry">
+          <mxGeometry x="310" y="240" width="160" height="87" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -504,7 +504,7 @@
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7Rfr5RAOMr0kD60w5FFy-1" value=" Teacher           " style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="300" y="43" width="160" height="138" as="geometry">
+          <mxGeometry x="320" y="80" width="160" height="138" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -521,7 +521,7 @@
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="B6209zG0zNm9xYJiIQR3-1" value="CourseTask        " style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="60" y="136" width="160" height="214" as="geometry">
+          <mxGeometry x="110" y="100" width="160" height="214" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
