@@ -873,7 +873,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q2JQvk6hsC2MXiqCxi-H-3" target="Q2JQvk6hsC2MXiqCxi-H-46">
+        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q2JQvk6hsC2MXiqCxi-H-3" target="Q2JQvk6hsC2MXiqCxi-H-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-120" y="520" as="sourcePoint" />
             <mxPoint x="-40" y="520" as="targetPoint" />
@@ -883,6 +883,9 @@
           <mxGeometry x="0.1083" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-53" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
