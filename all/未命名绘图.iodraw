@@ -706,7 +706,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZkgA86X2cM47XdLNZB0H" name="ER图">
-    <mxGraphModel dx="1451" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1252" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -923,7 +923,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-62" value="" style="endArrow=none;html=1;rounded=0;entryX=0.595;entryY=1.012;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q2JQvk6hsC2MXiqCxi-H-4">
+        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-64" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q2JQvk6hsC2MXiqCxi-H-60">
+          <mxGeometry x="0.005" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-62" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q2JQvk6hsC2MXiqCxi-H-4" target="Q2JQvk6hsC2MXiqCxi-H-58">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="620" as="sourcePoint" />
             <mxPoint x="550" y="560" as="targetPoint" />
