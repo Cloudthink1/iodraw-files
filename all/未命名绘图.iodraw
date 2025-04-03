@@ -1059,11 +1059,17 @@
         <mxCell id="Q2JQvk6hsC2MXiqCxi-H-108" value="课程任务号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="730" y="530" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-109" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-109" value="地点号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="730" y="600" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-110" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-110" value="时间段号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="730" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-111" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="580" as="sourcePoint" />
+            <mxPoint x="730" y="580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
