@@ -711,7 +711,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Q2JQvk6hsC2MXiqCxi-H-1" value="上课地点" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="180" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="-150" y="450" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q2JQvk6hsC2MXiqCxi-H-2" value="课头" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="450" width="100" height="40" as="geometry" />
@@ -720,7 +720,7 @@
           <mxGeometry x="-150" y="650" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q2JQvk6hsC2MXiqCxi-H-4" value="课表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="630" y="660" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q2JQvk6hsC2MXiqCxi-H-5" value="课程任务" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="650" width="100" height="40" as="geometry" />
