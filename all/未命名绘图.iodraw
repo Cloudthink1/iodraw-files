@@ -909,7 +909,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-58" value="对应" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-58" value="隶属" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
