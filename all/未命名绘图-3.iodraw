@@ -429,7 +429,7 @@
           <mxGeometry x="414" y="370" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="r_m6X2hRqP7apKOMijI3-1" value="User          " style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="62" width="160" height="190" as="geometry">
+          <mxGeometry x="20" y="80" width="160" height="190" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
