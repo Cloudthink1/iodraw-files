@@ -706,8 +706,8 @@
         <mxCell id="RDjzI9b1orhI9OwOtezS-7" value="- remark" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" vertex="1" parent="RDjzI9b1orhI9OwOtezS-1">
           <mxGeometry y="156" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RDjzI9b1orhI9OwOtezS-8" value="CourseTable" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="460" y="50" width="160" height="110" as="geometry">
+        <mxCell id="RDjzI9b1orhI9OwOtezS-8" value="TimeSlot" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="430" width="160" height="110" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
