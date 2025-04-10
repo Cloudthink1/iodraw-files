@@ -555,7 +555,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qqSNeIoUc09Z1sCJvgtA-1" value=" ResourcePage" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="510" y="190" width="160" height="52" as="geometry">
+          <mxGeometry x="470" y="200" width="160" height="52" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -563,7 +563,7 @@
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qqSNeIoUc09Z1sCJvgtA-3" value="ConflictChecker            " style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="500" y="300" width="160" height="140" as="geometry">
+          <mxGeometry x="480" y="310" width="160" height="140" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
