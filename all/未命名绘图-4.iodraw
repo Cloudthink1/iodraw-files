@@ -319,7 +319,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3YH9R_L9JtGrdLp5lONn" name="第 2 页">
-    <mxGraphModel dx="609" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="369" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -433,7 +433,7 @@
         <mxCell id="wqwk8tXEoaEo5DXpWwfz-3" value="- class" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="wqwk8tXEoaEo5DXpWwfz-1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="wqwk8tXEoaEo5DXpWwfz-4" value="- courseType" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" vertex="1" parent="wqwk8tXEoaEo5DXpWwfz-1">
+        <mxCell id="wqwk8tXEoaEo5DXpWwfz-4" value="- courseCode" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" vertex="1" parent="wqwk8tXEoaEo5DXpWwfz-1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
