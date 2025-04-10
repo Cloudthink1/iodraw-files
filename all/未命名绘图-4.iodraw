@@ -369,7 +369,7 @@
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="96-959K8qli-aA4bRrau-11" value="Task        " style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="414" y="40" width="160" height="234" as="geometry">
+          <mxGeometry x="414" y="40" width="160" height="190" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -390,18 +390,6 @@
         </mxCell>
         <mxCell id="BYaTDZuj88kBXaPls7LM-3" value="- weekNode" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" parent="96-959K8qli-aA4bRrau-11" vertex="1">
           <mxGeometry y="156" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="tbBAE_wV7GplwZrsLRJR-1" value=" + fetchTasks() " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" parent="96-959K8qli-aA4bRrau-11" vertex="1">
-          <mxGeometry y="182" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="BYaTDZuj88kBXaPls7LM-5" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.013;exitY=0.951;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.01;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;fontSize=14;" parent="96-959K8qli-aA4bRrau-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4.085620730620576e-14" y="206.996" as="sourcePoint" />
-            <mxPoint x="163.68000000000004" y="207.72399999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BYaTDZuj88kBXaPls7LM-2" value=" + assignTeacher() " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" parent="96-959K8qli-aA4bRrau-11" vertex="1">
-          <mxGeometry y="208" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="96-959K8qli-aA4bRrau-24" value=" ResourcePage" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="440" width="160" height="52" as="geometry">
