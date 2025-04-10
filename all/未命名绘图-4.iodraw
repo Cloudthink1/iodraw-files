@@ -422,6 +422,20 @@
             <mxPoint x="628" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wqwk8tXEoaEo5DXpWwfz-1" value="Course" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="410" y="110" width="160" height="113" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wqwk8tXEoaEo5DXpWwfz-2" value="- courseCode" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" vertex="1" parent="wqwk8tXEoaEo5DXpWwfz-1">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wqwk8tXEoaEo5DXpWwfz-3" value="- courseName" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="wqwk8tXEoaEo5DXpWwfz-1">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wqwk8tXEoaEo5DXpWwfz-4" value="- courseType" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" vertex="1" parent="wqwk8tXEoaEo5DXpWwfz-1">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
