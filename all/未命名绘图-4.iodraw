@@ -354,6 +354,9 @@
         <mxCell id="96-959K8qli-aA4bRrau-20" value="- capacity" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" parent="96-959K8qli-aA4bRrau-7" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="96-959K8qli-aA4bRrau-21" value="- roomName " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" parent="96-959K8qli-aA4bRrau-7" vertex="1">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="96-959K8qli-aA4bRrau-11" value="Task        " style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="400" y="77" width="160" height="190" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
@@ -418,9 +421,6 @@
             <mxPoint x="560" y="505" as="sourcePoint" />
             <mxPoint x="628" y="533" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="96-959K8qli-aA4bRrau-21" value="- equipment " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="414" y="370" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
