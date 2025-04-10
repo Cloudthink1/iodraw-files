@@ -376,7 +376,7 @@
         <mxCell id="96-959K8qli-aA4bRrau-12" value="- taskID   " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" parent="96-959K8qli-aA4bRrau-11" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="96-959K8qli-aA4bRrau-13" value="- courseName   " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontFamily=宋体;fontSize=14;" parent="96-959K8qli-aA4bRrau-11" vertex="1">
+        <mxCell id="96-959K8qli-aA4bRrau-13" value="- courseheadID" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontFamily=宋体;fontSize=14;" parent="96-959K8qli-aA4bRrau-11" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="96-959K8qli-aA4bRrau-15" value="- teacherID" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" parent="96-959K8qli-aA4bRrau-11" vertex="1">
