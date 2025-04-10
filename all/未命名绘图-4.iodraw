@@ -430,7 +430,7 @@
         <mxCell id="wqwk8tXEoaEo5DXpWwfz-2" value="- courseHeadID" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" vertex="1" parent="wqwk8tXEoaEo5DXpWwfz-1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="wqwk8tXEoaEo5DXpWwfz-3" value="- courseName" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="wqwk8tXEoaEo5DXpWwfz-1">
+        <mxCell id="wqwk8tXEoaEo5DXpWwfz-3" value="- class" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="wqwk8tXEoaEo5DXpWwfz-1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="wqwk8tXEoaEo5DXpWwfz-4" value="- courseType" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=宋体;fontSize=14;" vertex="1" parent="wqwk8tXEoaEo5DXpWwfz-1">
