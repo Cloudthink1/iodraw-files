@@ -856,7 +856,7 @@
         <mxCell id="Q2JQvk6hsC2MXiqCxi-H-46" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="10" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.845;exitY=0.624;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=14;exitPerimeter=0;" parent="1" source="Q2JQvk6hsC2MXiqCxi-H-46" target="Q2JQvk6hsC2MXiqCxi-H-5" edge="1">
+        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=14;" parent="1" source="Q2JQvk6hsC2MXiqCxi-H-46" target="Q2JQvk6hsC2MXiqCxi-H-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="520" as="sourcePoint" />
             <mxPoint x="160" y="480" as="targetPoint" />
@@ -1128,7 +1128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="76khuriUpf4vpAWBTtm8-1" value="是否空闲" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="650" width="100" height="40" as="geometry" />
+          <mxGeometry x="-280" y="650" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="76khuriUpf4vpAWBTtm8-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.95;exitY=0.285;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=14;exitPerimeter=0;" parent="1" source="76khuriUpf4vpAWBTtm8-1" edge="1">
           <mxGeometry relative="1" as="geometry">
