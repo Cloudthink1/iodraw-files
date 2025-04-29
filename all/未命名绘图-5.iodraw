@@ -912,7 +912,7 @@
             <mxPoint x="350" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yuziSifQMtoOEz1Gx2gc-1" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="Q2JQvk6hsC2MXiqCxi-H-60">
+        <mxCell id="yuziSifQMtoOEz1Gx2gc-1" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=宋体;" vertex="1" connectable="0" parent="Q2JQvk6hsC2MXiqCxi-H-60">
           <mxGeometry x="-0.0461" y="-1" relative="1" as="geometry">
             <mxPoint x="2" y="-4" as="offset" />
           </mxGeometry>
