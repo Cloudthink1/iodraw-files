@@ -992,10 +992,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q2JQvk6hsC2MXiqCxi-H-92" value="课程任务号" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="220" y="790" width="100" height="40" as="geometry" />
+          <mxGeometry x="170" y="810" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q2JQvk6hsC2MXiqCxi-H-93" value="课头号" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="330" y="790" width="100" height="40" as="geometry" />
+          <mxGeometry x="280" y="810" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q2JQvk6hsC2MXiqCxi-H-94" value="教师工号" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="460" y="710" width="100" height="40" as="geometry" />
@@ -1004,7 +1004,7 @@
           <mxGeometry x="80" y="720" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q2JQvk6hsC2MXiqCxi-H-96" value="结束周" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="420" y="760" width="100" height="40" as="geometry" />
+          <mxGeometry x="360" y="770" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q2JQvk6hsC2MXiqCxi-H-97" value="周节" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="100" y="770" width="100" height="40" as="geometry" />
