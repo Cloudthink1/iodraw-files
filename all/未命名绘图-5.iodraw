@@ -700,7 +700,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZkgA86X2cM47XdLNZB0H" name="ER图">
-    <mxGraphModel dx="2063" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1823" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -820,7 +820,7 @@
             <mxPoint x="730" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-34" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=14;" parent="Q2JQvk6hsC2MXiqCxi-H-33" vertex="1" connectable="0">
+        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-34" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=14;labelBackgroundColor=none;" parent="Q2JQvk6hsC2MXiqCxi-H-33" vertex="1" connectable="0">
           <mxGeometry x="-0.013" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
