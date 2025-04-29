@@ -898,9 +898,9 @@
             <mxPoint x="220" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-57" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=14;" parent="Q2JQvk6hsC2MXiqCxi-H-56" vertex="1" connectable="0">
+        <mxCell id="Q2JQvk6hsC2MXiqCxi-H-57" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=14;labelBackgroundColor=none;" parent="Q2JQvk6hsC2MXiqCxi-H-56" vertex="1" connectable="0">
           <mxGeometry x="0.0047" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="7" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q2JQvk6hsC2MXiqCxi-H-58" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
